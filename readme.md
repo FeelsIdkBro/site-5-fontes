@@ -1,1 +1,1 @@
-Fiz um site que exiba textos em cinco fontes quaisquer, diferentes, como um catálogo.
+Fiz um site que exibe textos de cinco fontes quaisquer, diferentes, como um catálogo.
