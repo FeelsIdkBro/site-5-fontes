@@ -1,0 +1,166 @@
+body{
+    background-color: #393e46;
+    margin: 0;
+    padding: 0;
+    background-size: 100%; 
+    background-attachment: fixed;
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.caixa1 {
+    border: 2px solid #1c2027;
+    background-color: #222831; /* Cor de fundo para a imagem */
+    padding: 20px;
+    color: white;
+    font-family: 'Happy Marker', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cxdcx {
+    background-color: rgb(12, 12, 12);
+    width: 170px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 2px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    height: 80px;
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.hs {
+    font-family: 'Pricedown Bl', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 22px;
+}
+.cxtxt1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1a1d22;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    width: 350px;
+    transition: background-color 0.3s ease; /* Transição suave de cor */
+    font-family: 'Pricedown Bl', sans-serif;
+}
+.cxtxt1:hover {
+    background-color: #414347; /* Cor ao passar o mouse */
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.hs2{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 22px;
+}
+.cxtxt2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1a1d22;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius:10px;
+    color: white;
+    width: 350px;
+    transition: background-color 0.3s ease;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.cxtxt2:hover {
+    background-color: #414347;
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.hs3 {
+    font-family: 'Trajan Pro', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 22px;
+}
+.cxtxt3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1a1d22;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius:10px;
+    color: white;
+    width: 350px;
+    transition: background-color 0.3s ease;
+    font-family: 'Trajan Pro', sans-serif;
+}
+.cxtxt3:hover {
+    background-color: #414347;
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.hs4 {
+    font-family: 'Luckiest Guy', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 22px;
+}
+.cxtxt4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1a1d22;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius:10px;
+    color: white;
+    width: 350px;
+    transition: background-color 0.3s ease;
+    font-family: 'Luckiest Guy', sans-serif;
+}
+.cxtxt4:hover {
+    background-color: #414347;
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.hs5 {
+    font-family: 'The Sims Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 22px;
+}
+.cxtxt5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1a1d22;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius:10px;
+    color: white;
+    width: 350px;
+    transition: background-color 0.3s ease;
+    font-family: 'The Sims Sans', sans-serif;
+}
+.cxtxt5:hover {
+    background-color: #414347;
+}
